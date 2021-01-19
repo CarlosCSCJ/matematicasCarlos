@@ -1,3 +1,4 @@
+package matematicas;
 
 /**
  * @author Carlos Sáenz-Adán

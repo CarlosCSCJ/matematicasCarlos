@@ -88,7 +88,7 @@ public class MatematicasCarlos {
 	 * @return cociente de la división de a entre b.
 	 */
 	public static Double division(double a, double b) {
-		return a % b;
+		return a / b;
 	}
 
 	/**
@@ -99,7 +99,7 @@ public class MatematicasCarlos {
 	 * @return resto de la división de a entre b
 	 */
 	public static Double resto(double a, double b) {
-		return a / b;
+		return a % b;
 	}
 
 	/**

@@ -66,7 +66,7 @@ public class MatematicasCarlos {
 	 * @return el resultado de la operación al restar un número del otro.
 	 */
 	public static Double resta(double a, double b) {
-		return a + b;
+		return a - b;
 	}
 
 	/**
